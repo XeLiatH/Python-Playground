@@ -1,11 +1,12 @@
+# -*- coding: utf-8 -*-
 """ 
+@author Matěj Beran
 
 Fibonacci implementation using 3 approaches
 ---
 1. Recursion
 2. Memoize approach
 3. Bottom-up approach
-
 """
 
 

@@ -1,9 +1,10 @@
+# -*- coding: utf-8 -*-
 """
+@author Matěj Beran
 
 Binary search method
 ---
 Using interval halving to find a number in a sorted array (bisection)
-
 """
 
 import datetime

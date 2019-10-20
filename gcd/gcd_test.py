@@ -1,11 +1,6 @@
+# -*- coding: utf-8 -*-
 """
-
 @author Matěj Beran
-
-Greatest Common Divisor (GCD)
----
-Using the Euclid's algorithm
-
 """
 
 import gcd

@@ -1,8 +1,6 @@
+# -*- coding: utf-8 -*-
 """
-
-Binary search method test file
----
-
+@author Matěj Beran
 """
 
 import bsm

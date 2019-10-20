@@ -1,10 +1,7 @@
+# -*- coding: utf-8 -*-
 """
-
-Fibonacci test file
----
-
+@author Matěj Beran
 """
-
 
 import fib
 
