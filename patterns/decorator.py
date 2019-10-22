@@ -7,7 +7,6 @@
 def currency(func):
     def func_wrapper(*args, **kwargs):
         return str(func(*args, **kwargs)) + " Kč"
-
     return func_wrapper
 
 

@@ -54,8 +54,6 @@ def visual_test():
     print("time[s]: " + str(diff.seconds))
     print("time[ms]: " + str(diff.microseconds))
 
-    pass
-
 
 if __name__ == "__main__":
     visual_test()
